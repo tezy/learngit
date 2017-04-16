@@ -1,0 +1,4 @@
+test git reset --soft --mixed(default) --hard
+git reflog
+git log 
+file id
